@@ -1,0 +1,25 @@
+{
+  "name": "fluidtextresizer",
+  "title": "Fluid Text Resizer",
+  "description": "Fluid Text Resizer is a compact yet versatile jQuery text resizer script. It can adjust the text size of a particular section of your page, such as just the primary content area, multiple sections, or the entire document in general. A fluid animation is used to morph into the new text size, and session cookies are used to remember the new setting. It works by first getting the default font size of the target section, whether the unit is pixels, em etc, then increasing or decreasing that accordingly. In other words, it's adaptive.",
+  "keywords": ["text", "font", "resize"],
+  "version": "1.0.0",
+  "author": {
+    "name": "Dynamic Drive",
+    "email" : "ddrivehelp@gmail.com",
+		"url": "http://www.dynamicdrive.com"
+  },
+  "licenses": [
+    {
+      "type": "Freeware",
+      "url": "http://www.dynamicdrive.com/notice.htm"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.4"
+  },
+  "homepage": "http://www.dynamicdrive.com/dynamicindex9/fluidtextresizer.htm",
+  "docs": "http://www.dynamicdrive.com/dynamicindex9/fluidtextresizer.htm",
+  "demo": "http://www.dynamicdrive.com/dynamicindex9/fluidtextresizer.htm",
+  "download": "http://www.dynamicdrive.com/dynamicindex9/fluidtextresizer.htm"
+}
